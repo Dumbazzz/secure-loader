@@ -1,0 +1,6 @@
+VERSION 0.1
+LIBRARY LOADEE
+EXPORTS
+   InitClient	@11 NONAME
+   InitHost		@12 NONAME
+   Hash			@13 NONAME DATA
